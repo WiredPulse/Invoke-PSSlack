@@ -1,0 +1,2 @@
+# Invoke-PSSlack
+Slack + PowerShell = :)
